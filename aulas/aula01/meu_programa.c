@@ -2,7 +2,7 @@
 
 int main() {
 float nota1 = 0.0;
-  float nota2 = 0.0;
+float nota2 = 0.0;
 
   printf("Entre com a nota1: ");
   scanf("%f", &nota1);
@@ -19,4 +19,7 @@ float nota1 = 0.0;
   } else {
     printf("Vamos de P3\n");
   }
+    return 0;
   }
+  
+  

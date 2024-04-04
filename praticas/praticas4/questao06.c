@@ -6,9 +6,9 @@
 
 int main(){
 
-  int a;
-  int b;
-  int c;
+  int a = 1;
+  int b = -5;
+  int c = 6;
 
   printf("Entre com o valor de a: ");
   int deu_certo = scanf("%i", &a);
